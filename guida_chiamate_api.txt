@@ -1,0 +1,12 @@
+<<<<<<< HEAD
+
+utenti/addutente/-->aggiungere utenti
+utenti/:email/-->visualizzare l email
+utenti/updateutente/:email-->modifica utente
+=======
+
+utenti/addutente/-->aggiungere utenti
+utenti/:email/-->visualizzare l email
+utenti/updateutente/:email-->modifica utente
+>>>>>>> 6d2b5aeaa0f9911cc17eeb3614a5e55e8441a045
+utenti/deleteutente/:email-->elimina utente 
