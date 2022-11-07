@@ -5,7 +5,7 @@ const cors = require('cors')
 require("dotenv").config();
 
 const utentiRouter = require("./routers/utenti_routers");
-mongoose.connect("mongodb+srv://stefanomasnada:SteMasna02%31@cluster0.gkgtz.mongodb.net/jac?retryWrites=true&w=majority",function(error){
+mongoose.connect("mongodb+srv://stage:stage@cluster0.gkgtz.mongodb.net/jac?retryWrites=true&w=majority",function(error){
 console.log(error)
 if(error)
     throw error;
