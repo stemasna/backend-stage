@@ -4,3 +4,8 @@ utenti/addutente/-->aggiungere utenti
 utenti/:email/-->visualizzare l email
 utenti/updateutente/:email-->modifica utente
 utenti/deleteutente/:email-->elimina utente 
+
+https://backend-stage-ste.herokuapp.com/utenti/addutente/
+https://backend-stage-ste.herokuapp.com/utenti/:email/
+https://backend-stage-ste.herokuapp.com/utenti/updateutente/:email
+https://backend-stage-ste.herokuapp.com/utenti/deleteutente/:email
